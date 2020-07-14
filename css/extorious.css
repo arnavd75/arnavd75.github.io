@@ -129,14 +129,14 @@ body {
 ==================================================*/
 
 .logoimg {
-    width: 60.8vw;
-    height: 16vw;
+    height: 9vw;
+    width: 50vw;
 }
 
 @media screen and (max-width: 750px) {
     .logoimg {
-        width: 76vw;
-        height: 20vw;
+        height: 15vw;
+        width: 80vw;
     }
 }
 
